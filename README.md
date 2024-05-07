@@ -62,7 +62,7 @@
   </a> -->
      </a>
      <a href="https://t.me/mo7ammed_2shraf">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
