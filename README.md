@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> -->
      </a>
-     <a href="https://t.me/ammarageeza">
+     <a href="https://t.me/mo7ammed_2shraf">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
