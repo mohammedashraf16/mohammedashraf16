@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Developer 💻** | **Mobile Application Developer 📱 .
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+- 🌱 I’m currently learning **Intermediate Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohammedashraf16 ?page=1&tab=repositories)**.
 
