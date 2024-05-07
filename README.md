@@ -31,7 +31,6 @@
 <br>
 
 ## 📊 My Stats:
-
 <p align="center">
     <a href="https://github.com/mohammedashraf16 /github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mohammedashraf16 's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedashraf16 &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -55,9 +54,9 @@
   <a href="mailto:mrrobot1692003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://mostaql.com/u/mohammedas16/portfolio">
+<!--         <a href="https://mostaql.com/u/mohammedas16/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
+  </a> -->
 <!--     <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> -->
