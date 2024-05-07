@@ -74,10 +74,10 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/mohammedashraf16 /github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mohammedashraf16 ">
+<a href="https://github.com/mohammedashraf16/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mohammedashraf16">
 </a>
-<a href="https://github.com/mohammedashraf16 ?tab=followers"><img src="https://img.shields.io/github/followers/mohammedashraf16 ?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mohammedashraf16?tab=followers"><img src="https://img.shields.io/github/followers/mohammedashraf16?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
