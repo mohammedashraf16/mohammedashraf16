@@ -7,7 +7,8 @@
 ## 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working as a **Software Developer 💻** | **Mobile Application Developer 📱 .
-
+- I have strong experience in state management, API integration, and agile project management, enabling me to efficiently handle complex app functionalities and streamline development.
+- I’m committed to staying up-to-date with the latest in Flutter and constantly refining my skills in UI/UX and mobile development.
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohammedashraf16?page=1&tab=repositories)**.
 
 <br>
@@ -18,10 +19,10 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
+     <img src="https://www.codewars.com/users/mohammedashraf16/badges/large" />
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
-
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
