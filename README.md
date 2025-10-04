@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Developer 💻** | **Mobile Application Developer 📱 .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Flutter Developer 📱 .
 - I have strong experience in state management, API integration, and agile project management, enabling me to efficiently handle complex app functionalities and streamline development.
 - I’m committed to staying up-to-date with the latest in Flutter and constantly refining my skills in UI/UX and mobile development.
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohammedashraf16?page=1&tab=repositories)**.
