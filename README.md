@@ -19,7 +19,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-     <img src="https://www.codewars.com/users/mohammedashraf16/badges/large" />
+     <img src="https://www.codewars.com/users/mohammedashraf16/badges/micro" />
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
